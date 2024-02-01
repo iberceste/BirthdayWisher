@@ -6,7 +6,7 @@ import pandas as pd
 
 birthday = pd.read_csv('birthdays.csv')
 my_email = "ipekkunluupy@gmail.com"
-password = "your_email"
+password = "your_password"
 
 
 now = dt.datetime.now()
